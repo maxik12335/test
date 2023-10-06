@@ -20,7 +20,7 @@ body {
 }
 
 .tel-sublist {
-  display: flex;
+  /* display: flex; */
 }
 
 .tel-list__item {
